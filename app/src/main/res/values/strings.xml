@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fastcampus_11</string>
+    <string name="changeAlarm">시간 재설정</string>
+    <string name="onOffAlarm">알람 켜기</string>
+</resources>
